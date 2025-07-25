@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/nyl-annuities",
+        "create path (nt:unstructured) /content/dam/nyl-annuities/jcr:content",
+        "set properties on /content/dam/nyl-annuities/jcr:content\n  set cq:conf{String} to /conf/nyl-annuities\n  set jcr:title{String} to \"NYL ANNUITIES\"\nend"
+    ]
+}
