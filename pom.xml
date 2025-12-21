@@ -47,6 +47,11 @@
             
     <module>it.tests</module>
             
+<<<<<<< HEAD
+=======
+    <module>dispatcher</module>
+            
+>>>>>>> 35ee83876de09008ffeec9a4db82cab205a46c42
     <module>ui.tests</module>
       
   </modules>
@@ -335,6 +340,7 @@ Bundle-DocURL:
           </executions>
                               
           <dependencies>
+<<<<<<< HEAD
 			<dependency>
                                           
               <groupId>com.nyl.foundation</groupId>
@@ -344,6 +350,8 @@ Bundle-DocURL:
               <version>0.0.1-SNAPSHOT</version>
                                       
             </dependency>
+=======
+>>>>>>> 35ee83876de09008ffeec9a4db82cab205a46c42
                                     
             <dependency>
                                           
